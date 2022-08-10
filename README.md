@@ -3,7 +3,7 @@
 
 <img src=https://www.lambdatest.com/blog/wp-content/uploads/2020/08/giphy-5.gif width="400" height="400" align="right">
 
-## I am a DevOps Engineer | Cyber Security | Data Scientist 'Apprentice' !!
+## I am a CE Engineer | JR. Frontend Developer |  !!
 - ♊️ Age: 23
 - 👨‍🎓 Konya Food & Agriculture University | Computer Engineer
 - 👨‍💻 I am currently a FrontEnd Software Developer at Konya Science Center City Technologies Unit.
