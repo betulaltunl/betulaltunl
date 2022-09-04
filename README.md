@@ -1,13 +1,11 @@
-## Hello World, I'm Betül 👋
+## Hi, I'm Betül 👋
 
 
 <img src=https://www.lambdatest.com/blog/wp-content/uploads/2020/08/giphy-5.gif width="400" height="400" align="right">
 
 ## I am a Computer Engineer | JR. Frontend Developer |  !!
-- ♊️ Age: 22
 - 👨‍🎓 Konya Food & Agriculture University | Computer Engineer
-- 👨‍💻 I am currently a FrontEnd Software Developer at Konya Science Center City Technologies Unit.
-- ⚡  In this universe full of problems, it is impossible not to have solutions.
+- 👨‍💻 I am currently a FrontEnd Software Developer 
 - 🎯 Hobbies: ↠ Tenis ↠ Reading Book
 - 💬 Languages: ▻ English ▻ Turkish ▻ 
 ### Talk with me, I am kinda awesome:
