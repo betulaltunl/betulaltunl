@@ -7,9 +7,9 @@
 
 <img src=https://www.lambdatest.com/blog/wp-content/uploads/2020/08/giphy-5.gif width="300" height="300" align="right">
 
-## I am a Computer Engineer Student
+## I am a Computer Engineer Student.
 
-## Languages and Tools
+## Languages and Tools:
 <p align="start">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
@@ -21,7 +21,7 @@
                                                                                                    
 </p>
 
-## Connect with Me
+## Connect with Me:
 <p float="left">
 <a href="mailto:altnbetul99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/betül-altunel/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -29,7 +29,7 @@
 
 </p>
 
-## :trophy: My Github Stats:
+## My Github Stats:
 
 <br/>
 <p align="start">
