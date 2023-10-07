@@ -35,7 +35,7 @@
 <p align="start">
   <a href="https://github.com/betulaltunl">
   <img width="49.5%" height="200" src="https://github-readme-stats.vercel.app/api?username=betulaltunl&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=betulaltunl&theme=gruvbox&hide_border=true" />
+    <img width="50%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=betulaltunl&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
